@@ -1,0 +1,44 @@
+{
+	"description": "Derivative art of Origin Axie #5 https://marketplace.axieinfinity.com/axie/5",
+	"image": "",
+	"name": "Derivative of Axie #5",
+	"external_url": "https://marketplace.axieinfinity.com/axie/5",
+	"attributes": [
+		{
+			"trait_type": "Back",
+			"value": "Balloon",
+		},
+		{
+			"trait_type": "Class",
+			"value": "Beast",
+		},
+		{
+			"trait_type": "Ear",
+			"value": "Larva",
+		},
+		{
+			"trait_type": "Eye",
+			"value": "Zeal",
+		},
+		{
+			"trait_type": "Horn",
+			"value": "Lagging",
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Mosquito",
+		},
+		{
+			"trait_type": "Origin",
+			"value": "Origin",
+		},
+		{
+			"trait_type": "Tail",
+			"value": "Rice",
+		},
+		{
+			"trait_type": "Background",
+			"value": "Grey",
+		}
+	]
+}
