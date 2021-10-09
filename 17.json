@@ -1,0 +1,48 @@
+{
+	"description": "Derivative art of Mystic Axie #44 https://marketplace.axieinfinity.com/axie/44",
+	"image": "https://kobierecky.github.io/AxieDerivatives/17.png",
+	"name": "Derivative of Mystic Axie #44",
+	"external_url": "https://marketplace.axieinfinity.com/axie/44",
+	"attributes": [
+		{
+			"trait_type": "Eyes",
+			"value": "Confused"
+		},
+		{
+			"trait_type": "Ears",
+			"value": "Leafy"
+		},
+		{
+			"trait_type": "Back",
+			"value": "Blue Moon"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Skull Cracker"
+		},
+		{
+			"trait_type": "Horn",
+			"value": "Golden Shell"
+		},
+		{
+			"trait_type": "Tail",
+			"value": "Nimo"
+		},
+		{
+			"trait_type": "Class",
+			"value": "Plant"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Sunbeam"
+		},
+		{
+			"trait_type": "Origin",
+			"value": "Origin"
+		},
+		{
+			"trait_type": "Mystic",
+			"value": "2"
+		}
+	]
+}
