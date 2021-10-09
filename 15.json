@@ -1,0 +1,40 @@
+{
+	"description": "Derivative art of Axie #533564 https://marketplace.axieinfinity.com/axie/533564",
+	"image": "https://kobierecky.github.io/AxieDerivatives/15.png",
+	"name": "Derivative of Axie #533564",
+	"external_url": "https://marketplace.axieinfinity.com/axie/533564",
+	"attributes": [
+		{
+			"trait_type": "Eyes",
+			"value": "Neo"
+		},
+		{
+			"trait_type": "Ears",
+			"value": "Larva"
+		},
+		{
+			"trait_type": "Back",
+			"value": "Snail Shell"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Square Teeth"
+		},
+		{
+			"trait_type": "Horn",
+			"value": "Parasite"
+		},
+		{
+			"trait_type": "Tail",
+			"value": "Gravel Ant"
+		},
+		{
+			"trait_type": "Class",
+			"value": "Bug"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Red"
+		}
+	]
+}
