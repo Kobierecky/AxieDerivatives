@@ -1,0 +1,44 @@
+{
+	"description": "Derivative art of Origin Axie #13 https://marketplace.axieinfinity.com/axie/13",
+	"image": "https://kobierecky.github.io/AxieDerivatives/5.png",
+	"name": "Derivative of Origin Axie #13",
+	"external_url": "https://marketplace.axieinfinity.com/axie/13",
+	"attributes": [
+		{
+			"trait_type": "Eyes",
+			"value": "Mavis",
+		},
+		{
+			"trait_type": "Ears",
+			"value": "Leafy",
+		},
+		{
+			"trait_type": "Back",
+			"value": "Hermit",
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Serious",
+		},
+		{
+			"trait_type": "Horn",
+			"value": "Lagging",
+		},
+		{
+			"trait_type": "Tail",
+			"value": "Carrot",
+		},
+		{
+			"trait_type": "Class",
+			"value": "Plant",
+		},
+		{
+			"trait_type": "Background",
+			"value": "Green",
+		},
+		{
+			"trait_type": "Origin",
+			"value": "Origin",
+		}	
+	]
+}

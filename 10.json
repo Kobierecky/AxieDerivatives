@@ -1,0 +1,44 @@
+{
+	"description": "Derivative art of Origin Axie #12 https://marketplace.axieinfinity.com/axie/12",
+	"image": "https://kobierecky.github.io/AxieDerivatives/10.png",
+	"name": "Derivative of Origin Axie #12",
+	"external_url": "https://marketplace.axieinfinity.com/axie/12",
+	"attributes": [
+		{
+			"trait_type": "Eyes",
+			"value": "Bookworm",
+		},
+		{
+			"trait_type": "Ears",
+			"value": "Curved Spine",
+		},
+		{
+			"trait_type": "Back",
+			"value": "Garish Worm",
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Mosquito",
+		},
+		{
+			"trait_type": "Horn",
+			"value": "Babylonia",
+		},
+		{
+			"trait_type": "Tail",
+			"value": "Koi",
+		},
+		{
+			"trait_type": "Class",
+			"value": "Bug",
+		},
+		{
+			"trait_type": "Background",
+			"value": "Red",
+		},
+		{
+			"trait_type": "Origin",
+			"value": "Origin",
+		}
+	]
+}

@@ -1,8 +1,8 @@
 {
-	"description": "Derivative art of Origin Axie #5 https://marketplace.axieinfinity.com/axie/5",
-	"image": "https://kobierecky.github.io/AxieDerivatives/1.png",
-	"name": "Derivative of Origin Axie #5",
-	"external_url": "https://marketplace.axieinfinity.com/axie/5",
+	"description": "Derivative art of Origin Axie #64 https://marketplace.axieinfinity.com/axie/64",
+	"image": "https://kobierecky.github.io/AxieDerivatives/7.png",
+	"name": "Derivative of Origin Axie #64",
+	"external_url": "https://marketplace.axieinfinity.com/axie/64",
 	"attributes": [
 		{
 			"trait_type": "Eyes",
@@ -10,15 +10,15 @@
 		},
 		{
 			"trait_type": "Ears",
-			"value": "Larva",
+			"value": "Beetle Spike",
 		},
 		{
 			"trait_type": "Back",
-			"value": "Balloon",
+			"value": "Jaguar",
 		},
 		{
 			"trait_type": "Mouth",
-			"value": "Mosquito",
+			"value": "Nut Cracker",
 		},
 		{
 			"trait_type": "Horn",
@@ -26,7 +26,7 @@
 		},
 		{
 			"trait_type": "Tail",
-			"value": "Rice",
+			"value": "The Last One",
 		},
 		{
 			"trait_type": "Class",
@@ -34,7 +34,7 @@
 		},
 		{
 			"trait_type": "Background",
-			"value": "Grey",
+			"value": "Mellow",
 		},
 		{
 			"trait_type": "Origin",

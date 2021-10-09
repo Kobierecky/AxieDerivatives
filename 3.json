@@ -1,0 +1,48 @@
+{
+	"description": "Derivative art of Mystic Axie #9 https://marketplace.axieinfinity.com/axie/9",
+	"image": "https://kobierecky.github.io/AxieDerivatives/3.png",
+	"name": "Derivative of Mystic Axie #9",
+	"external_url": "https://marketplace.axieinfinity.com/axie/9",
+	"attributes": [
+		{
+			"trait_type": "Eyes",
+			"value": "Bookworm",
+		},
+		{
+			"trait_type": "Ears",
+			"value": "Nyan",
+		},
+		{
+			"trait_type": "Back",
+			"value": "Starry Shell",
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Goda",
+		},
+		{
+			"trait_type": "Horn",
+			"value": "Caterpillars",
+		},
+		{
+			"trait_type": "Tail",
+			"value": "Rice",
+		},
+		{
+			"trait_type": "Class",
+			"value": "Beast",
+		},
+		{
+			"trait_type": "Background",
+			"value": "Seagreen",
+		},
+		{
+			"trait_type": "Origin",
+			"value": "Origin",
+		},
+		{
+			"trait_type": "Mystic",
+			"value": "1",
+		}	
+	]
+}

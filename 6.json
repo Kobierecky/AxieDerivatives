@@ -1,0 +1,44 @@
+{
+	"description": "Derivative art of Origin Axie #69 https://marketplace.axieinfinity.com/axie/69",
+	"image": "https://kobierecky.github.io/AxieDerivatives/6.png",
+	"name": "Derivative of Origin Axie #69",
+	"external_url": "https://marketplace.axieinfinity.com/axie/69",
+	"attributes": [
+		{
+			"trait_type": "Eyes",
+			"value": "Lucas",
+		},
+		{
+			"trait_type": "Ears",
+			"value": "Pink Cheek",
+		},
+		{
+			"trait_type": "Back",
+			"value": "Cupid",
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Nut Cracker",
+		},
+		{
+			"trait_type": "Horn",
+			"value": "Teal Shell",
+		},
+		{
+			"trait_type": "Tail",
+			"value": "Tiny Dino",
+		},
+		{
+			"trait_type": "Class",
+			"value": "Bird",
+		},
+		{
+			"trait_type": "Background",
+			"value": "Rose",
+		},
+		{
+			"trait_type": "Origin",
+			"value": "Origin",
+		}	
+	]
+}

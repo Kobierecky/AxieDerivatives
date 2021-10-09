@@ -1,20 +1,20 @@
 {
-	"description": "Derivative art of Mystic Axie #7 https://marketplace.axieinfinity.com/axie/7",
-	"image": "https://kobierecky.github.io/AxieDerivatives/2.png",
-	"name": "Derivative of Mystic Axie #7",
-	"external_url": "https://marketplace.axieinfinity.com/axie/7",
+	"description": "Derivative art of Mystic Axie #2206 https://marketplace.axieinfinity.com/axie/2206",
+	"image": "https://kobierecky.github.io/AxieDerivatives/8.png",
+	"name": "Derivative of Mystic Axie #2206",
+	"external_url": "https://marketplace.axieinfinity.com/axie/2206",
 	"attributes": [
 		{
 			"trait_type": "Eyes",
-			"value": "Sleepless",
+			"value": "Lucas",
 		},
 		{
 			"trait_type": "Ears",
-			"value": "Nut Cracker",
+			"value": "Nyan",
 		},
 		{
 			"trait_type": "Back",
-			"value": "Snail Shell",
+			"value": "Ronin",
 		},
 		{
 			"trait_type": "Mouth",
@@ -22,11 +22,11 @@
 		},
 		{
 			"trait_type": "Horn",
-			"value": "Trump",
+			"value": "Candy Babylonia",
 		},
 		{
 			"trait_type": "Tail",
-			"value": "Fire Ant",
+			"value": "Feather Fan",
 		},
 		{
 			"trait_type": "Class",
@@ -34,7 +34,7 @@
 		},
 		{
 			"trait_type": "Background",
-			"value": "Raspberry",
+			"value": "Maya",
 		},
 		{
 			"trait_type": "Origin",

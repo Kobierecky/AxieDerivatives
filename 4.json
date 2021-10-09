@@ -1,0 +1,44 @@
+{
+	"description": "Derivative art of Origin Axie #11 https://marketplace.axieinfinity.com/axie/11",
+	"image": "https://kobierecky.github.io/AxieDerivatives/4.png",
+	"name": "Derivative of Origin Axie #11",
+	"external_url": "https://marketplace.axieinfinity.com/axie/11",
+	"attributes": [
+		{
+			"trait_type": "Eyes",
+			"value": "Papi",
+		},
+		{
+			"trait_type": "Ears",
+			"value": "Bubblemaker",
+		},
+		{
+			"trait_type": "Back",
+			"value": "Bone Sail",
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Doubletalk",
+		},
+		{
+			"trait_type": "Horn",
+			"value": "Imp",
+		},
+		{
+			"trait_type": "Tail",
+			"value": "Cottontail",
+		},
+		{
+			"trait_type": "Class",
+			"value": "Beast",
+		},
+		{
+			"trait_type": "Background",
+			"value": "Yellow",
+		},
+		{
+			"trait_type": "Origin",
+			"value": "Origin",
+		}	
+	]
+}

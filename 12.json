@@ -1,0 +1,48 @@
+{
+	"description": "Derivative art of Mystic Axie #87 https://marketplace.axieinfinity.com/axie/87",
+	"image": "https://kobierecky.github.io/AxieDerivatives/12.png",
+	"name": "Derivative of Mystic Axie #87",
+	"external_url": "https://marketplace.axieinfinity.com/axie/87",
+	"attributes": [
+		{
+			"trait_type": "Eyes",
+			"value": "Gecko",
+		},
+		{
+			"trait_type": "Ears",
+			"value": "Early Bird",
+		},
+		{
+			"trait_type": "Back",
+			"value": "Raven",
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Venom Bite",
+		},
+		{
+			"trait_type": "Horn",
+			"value": "Beech",
+		},
+		{
+			"trait_type": "Tail",
+			"value": "Koi",
+		},
+		{
+			"trait_type": "Class",
+			"value": "Reptile",
+		},
+		{
+			"trait_type": "Background",
+			"value": "Jungle",
+		},
+		{
+			"trait_type": "Origin",
+			"value": "Origin",
+		},
+		{
+			"trait_type": "Mystic",
+			"value": "1",
+		}
+	]
+}
