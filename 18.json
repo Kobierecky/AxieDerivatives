@@ -1,40 +1,48 @@
 {
-	"description": "Derivative art of Axie #1858479 https://marketplace.axieinfinity.com/axie/1858479",
-	"image": "https://kobierecky.github.io/AxieDerivatives/16.png",
-	"name": "Derivative of Axie #1858479",
-	"external_url": "https://marketplace.axieinfinity.com/axie/1858479",
+	"description": "Derivative art of Mystic Axie #3123 https://marketplace.axieinfinity.com/axie/3123",
+	"image": "https://kobierecky.github.io/AxieDerivatives/18.png",
+	"name": "Derivative of Mystic Axie #3123",
+	"external_url": "https://marketplace.axieinfinity.com/axie/3123",
 	"attributes": [
 		{
 			"trait_type": "Eyes",
-			"value": "Little Peas"
+			"value": "Mavis"
 		},
 		{
 			"trait_type": "Ears",
-			"value": "Hollow"
+			"value": "Beetle Spike"
 		},
 		{
 			"trait_type": "Back",
-			"value": "Risky Beast"
+			"value": "Crystal Hermit"
 		},
 		{
 			"trait_type": "Mouth",
-			"value": "Nut Cracker"
+			"value": "Kotaro"
 		},
 		{
 			"trait_type": "Horn",
-			"value": "Dual Blade"
+			"value": "Candy Babylonia"
 		},
 		{
 			"trait_type": "Tail",
-			"value": "Pupae"
+			"value": "Fire Ant"
 		},
 		{
 			"trait_type": "Class",
-			"value": "Plant"
+			"value": "Aquatic"
 		},
 		{
 			"trait_type": "Background",
-			"value": "Green"
+			"value": "Rainbow"
+		},
+		{
+			"trait_type": "Origin",
+			"value": "Origin"
+		},
+		{
+			"trait_type": "Mystic",
+			"value": "3"
 		}
 	]
 }
