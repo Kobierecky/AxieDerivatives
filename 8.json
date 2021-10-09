@@ -6,43 +6,43 @@
 	"attributes": [
 		{
 			"trait_type": "Eyes",
-			"value": "Lucas",
+			"value": "Lucas"
 		},
 		{
 			"trait_type": "Ears",
-			"value": "Nyan",
+			"value": "Nyan"
 		},
 		{
 			"trait_type": "Back",
-			"value": "Ronin",
+			"value": "Ronin"
 		},
 		{
 			"trait_type": "Mouth",
-			"value": "Lam",
+			"value": "Lam"
 		},
 		{
 			"trait_type": "Horn",
-			"value": "Candy Babylonia",
+			"value": "Candy Babylonia"
 		},
 		{
 			"trait_type": "Tail",
-			"value": "Feather Fan",
+			"value": "Feather Fan"
 		},
 		{
 			"trait_type": "Class",
-			"value": "Aquatic",
+			"value": "Aquatic"
 		},
 		{
 			"trait_type": "Background",
-			"value": "Maya",
+			"value": "Maya"
 		},
 		{
 			"trait_type": "Origin",
-			"value": "Origin",
+			"value": "Origin"
 		},
 		{
 			"trait_type": "Mystic",
-			"value": "1",
+			"value": "1"
 		}	
 	]
 }

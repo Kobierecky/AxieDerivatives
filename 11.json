@@ -6,35 +6,35 @@
 	"attributes": [
 		{
 			"trait_type": "Eyes",
-			"value": "Little Peas",
+			"value": "Little Peas"
 		},
 		{
 			"trait_type": "Ears",
-			"value": "Hollow",
+			"value": "Hollow"
 		},
 		{
 			"trait_type": "Back",
-			"value": "Risky Beast",
+			"value": "Risky Beast"
 		},
 		{
 			"trait_type": "Mouth",
-			"value": "Nut Cracker",
+			"value": "Nut Cracker"
 		},
 		{
 			"trait_type": "Horn",
-			"value": "Dual Blade",
+			"value": "Dual Blade"
 		},
 		{
 			"trait_type": "Tail",
-			"value": "Pupae",
+			"value": "Pupae"
 		},
 		{
 			"trait_type": "Class",
-			"value": "Plant",
+			"value": "Plant"
 		},
 		{
 			"trait_type": "Background",
-			"value": "Green",
+			"value": "Green"
 		}
 	]
 }

@@ -1,0 +1,40 @@
+{
+	"description": "Derivative art of Mystic Axie #164181 https://marketplace.axieinfinity.com/axie/164181",
+	"image": "https://kobierecky.github.io/AxieDerivatives/14.png",
+	"name": "Derivative of Mystic Axie #164181",
+	"external_url": "https://marketplace.axieinfinity.com/axie/164181",
+	"attributes": [
+		{
+			"trait_type": "Eyes",
+			"value": "Scar"
+		},
+		{
+			"trait_type": "Ears",
+			"value": "Pink Cheek"
+		},
+		{
+			"trait_type": "Back",
+			"value": "Kingfisher"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Cute Bunny"
+		},
+		{
+			"trait_type": "Horn",
+			"value": "Shoal Star"
+		},
+		{
+			"trait_type": "Tail",
+			"value": "Tadpole"
+		},
+		{
+			"trait_type": "Class",
+			"value": "Aquatic"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Turkish"
+		}
+	]
+}

@@ -6,39 +6,39 @@
 	"attributes": [
 		{
 			"trait_type": "Eyes",
-			"value": "Zeal",
+			"value": "Zeal"
 		},
 		{
 			"trait_type": "Ears",
-			"value": "Larva",
+			"value": "Larva"
 		},
 		{
 			"trait_type": "Back",
-			"value": "Balloon",
+			"value": "Balloon"
 		},
 		{
 			"trait_type": "Mouth",
-			"value": "Mosquito",
+			"value": "Mosquito"
 		},
 		{
 			"trait_type": "Horn",
-			"value": "Lagging",
+			"value": "Lagging"
 		},
 		{
 			"trait_type": "Tail",
-			"value": "Rice",
+			"value": "Rice"
 		},
 		{
 			"trait_type": "Class",
-			"value": "Beast",
+			"value": "Beast"
 		},
 		{
 			"trait_type": "Background",
-			"value": "Grey",
+			"value": "Grey"
 		},
 		{
 			"trait_type": "Origin",
-			"value": "Origin",
+			"value": "Origin"
 		}	
 	]
 }

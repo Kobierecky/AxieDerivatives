@@ -6,39 +6,39 @@
 	"attributes": [
 		{
 			"trait_type": "Eyes",
-			"value": "Lucas",
+			"value": "Lucas"
 		},
 		{
 			"trait_type": "Ears",
-			"value": "Pink Cheek",
+			"value": "Pink Cheek"
 		},
 		{
 			"trait_type": "Back",
-			"value": "Cupid",
+			"value": "Cupid"
 		},
 		{
 			"trait_type": "Mouth",
-			"value": "Nut Cracker",
+			"value": "Nut Cracker"
 		},
 		{
 			"trait_type": "Horn",
-			"value": "Teal Shell",
+			"value": "Teal Shell"
 		},
 		{
 			"trait_type": "Tail",
-			"value": "Tiny Dino",
+			"value": "Tiny Dino"
 		},
 		{
 			"trait_type": "Class",
-			"value": "Bird",
+			"value": "Bird"
 		},
 		{
 			"trait_type": "Background",
-			"value": "Rose",
+			"value": "Rose"
 		},
 		{
 			"trait_type": "Origin",
-			"value": "Origin",
+			"value": "Origin"
 		}	
 	]
 }

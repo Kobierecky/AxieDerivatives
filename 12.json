@@ -6,43 +6,43 @@
 	"attributes": [
 		{
 			"trait_type": "Eyes",
-			"value": "Gecko",
+			"value": "Gecko"
 		},
 		{
 			"trait_type": "Ears",
-			"value": "Early Bird",
+			"value": "Early Bird"
 		},
 		{
 			"trait_type": "Back",
-			"value": "Raven",
+			"value": "Raven"
 		},
 		{
 			"trait_type": "Mouth",
-			"value": "Venom Bite",
+			"value": "Venom Bite"
 		},
 		{
 			"trait_type": "Horn",
-			"value": "Beech",
+			"value": "Beech"
 		},
 		{
 			"trait_type": "Tail",
-			"value": "Koi",
+			"value": "Koi"
 		},
 		{
 			"trait_type": "Class",
-			"value": "Reptile",
+			"value": "Reptile"
 		},
 		{
 			"trait_type": "Background",
-			"value": "Jungle",
+			"value": "Jungle"
 		},
 		{
 			"trait_type": "Origin",
-			"value": "Origin",
+			"value": "Origin"
 		},
 		{
 			"trait_type": "Mystic",
-			"value": "1",
+			"value": "1"
 		}
 	]
 }

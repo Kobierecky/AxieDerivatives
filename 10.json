@@ -6,39 +6,39 @@
 	"attributes": [
 		{
 			"trait_type": "Eyes",
-			"value": "Bookworm",
+			"value": "Bookworm"
 		},
 		{
 			"trait_type": "Ears",
-			"value": "Curved Spine",
+			"value": "Curved Spine"
 		},
 		{
 			"trait_type": "Back",
-			"value": "Garish Worm",
+			"value": "Garish Worm"
 		},
 		{
 			"trait_type": "Mouth",
-			"value": "Mosquito",
+			"value": "Mosquito"
 		},
 		{
 			"trait_type": "Horn",
-			"value": "Babylonia",
+			"value": "Babylonia"
 		},
 		{
 			"trait_type": "Tail",
-			"value": "Koi",
+			"value": "Koi"
 		},
 		{
 			"trait_type": "Class",
-			"value": "Bug",
+			"value": "Bug"
 		},
 		{
 			"trait_type": "Background",
-			"value": "Red",
+			"value": "Red"
 		},
 		{
 			"trait_type": "Origin",
-			"value": "Origin",
+			"value": "Origin"
 		}
 	]
 }

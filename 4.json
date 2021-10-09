@@ -6,39 +6,39 @@
 	"attributes": [
 		{
 			"trait_type": "Eyes",
-			"value": "Papi",
+			"value": "Papi"
 		},
 		{
 			"trait_type": "Ears",
-			"value": "Bubblemaker",
+			"value": "Bubblemaker"
 		},
 		{
 			"trait_type": "Back",
-			"value": "Bone Sail",
+			"value": "Bone Sail"
 		},
 		{
 			"trait_type": "Mouth",
-			"value": "Doubletalk",
+			"value": "Doubletalk"
 		},
 		{
 			"trait_type": "Horn",
-			"value": "Imp",
+			"value": "Imp"
 		},
 		{
 			"trait_type": "Tail",
-			"value": "Cottontail",
+			"value": "Cottontail"
 		},
 		{
 			"trait_type": "Class",
-			"value": "Beast",
+			"value": "Beast"
 		},
 		{
 			"trait_type": "Background",
-			"value": "Yellow",
+			"value": "Yellow"
 		},
 		{
 			"trait_type": "Origin",
-			"value": "Origin",
+			"value": "Origin"
 		}	
 	]
 }

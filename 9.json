@@ -6,35 +6,35 @@
 	"attributes": [
 		{
 			"trait_type": "Eyes",
-			"value": "Papi",
+			"value": "Papi"
 		},
 		{
 			"trait_type": "Ears",
-			"value": "Ear Breathing",
+			"value": "Ear Breathing"
 		},
 		{
 			"trait_type": "Back",
-			"value": "Indian Star",
+			"value": "Indian Star"
 		},
 		{
 			"trait_type": "Mouth",
-			"value": "Cute Bunny",
+			"value": "Cute Bunny"
 		},
 		{
 			"trait_type": "Horn",
-			"value": "Scaly Spoon",
+			"value": "Scaly Spoon"
 		},
 		{
 			"trait_type": "Tail",
-			"value": "Carrot",
+			"value": "Carrot"
 		},
 		{
 			"trait_type": "Class",
-			"value": "Dusk",
+			"value": "Dusk"
 		},
 		{
 			"trait_type": "Background",
-			"value": "Turkish",
+			"value": "Turkish"
 		}
 	]
 }

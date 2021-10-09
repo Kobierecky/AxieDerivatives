@@ -6,43 +6,43 @@
 	"attributes": [
 		{
 			"trait_type": "Eyes",
-			"value": "Sleepless",
+			"value": "Sleepless"
 		},
 		{
 			"trait_type": "Ears",
-			"value": "Nut Cracker",
+			"value": "Nut Cracker"
 		},
 		{
 			"trait_type": "Back",
-			"value": "Snail Shell",
+			"value": "Snail Shell"
 		},
 		{
 			"trait_type": "Mouth",
-			"value": "Lam",
+			"value": "Lam"
 		},
 		{
 			"trait_type": "Horn",
-			"value": "Trump",
+			"value": "Trump"
 		},
 		{
 			"trait_type": "Tail",
-			"value": "Fire Ant",
+			"value": "Fire Ant"
 		},
 		{
 			"trait_type": "Class",
-			"value": "Aquatic",
+			"value": "Aquatic"
 		},
 		{
 			"trait_type": "Background",
-			"value": "Raspberry",
+			"value": "Raspberry"
 		},
 		{
 			"trait_type": "Origin",
-			"value": "Origin",
+			"value": "Origin"
 		},
 		{
 			"trait_type": "Mystic",
-			"value": "1",
+			"value": "1"
 		}	
 	]
 }

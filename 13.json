@@ -1,16 +1,16 @@
 {
-	"description": "Derivative art of Mystic Axie #9 https://marketplace.axieinfinity.com/axie/9",
-	"image": "https://kobierecky.github.io/AxieDerivatives/3.png",
-	"name": "Derivative of Mystic Axie #9",
-	"external_url": "https://marketplace.axieinfinity.com/axie/9",
+	"description": "Derivative art of Mystic Axie #714 https://marketplace.axieinfinity.com/axie/714",
+	"image": "https://kobierecky.github.io/AxieDerivatives/13.png",
+	"name": "Derivative of Mystic Axie #714",
+	"external_url": "https://marketplace.axieinfinity.com/axie/714",
 	"attributes": [
 		{
 			"trait_type": "Eyes",
-			"value": "Bookworm"
+			"value": "Lucas"
 		},
 		{
 			"trait_type": "Ears",
-			"value": "Nyan"
+			"value": "Early Bird"
 		},
 		{
 			"trait_type": "Back",
@@ -18,15 +18,15 @@
 		},
 		{
 			"trait_type": "Mouth",
-			"value": "Goda"
+			"value": "ZigZag"
 		},
 		{
 			"trait_type": "Horn",
-			"value": "Caterpillars"
+			"value": "Little Branch"
 		},
 		{
 			"trait_type": "Tail",
-			"value": "Rice"
+			"value": "Cottontail"
 		},
 		{
 			"trait_type": "Class",
@@ -43,6 +43,6 @@
 		{
 			"trait_type": "Mystic",
 			"value": "1"
-		}	
+		}
 	]
 }

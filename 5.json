@@ -6,39 +6,39 @@
 	"attributes": [
 		{
 			"trait_type": "Eyes",
-			"value": "Mavis",
+			"value": "Mavis"
 		},
 		{
 			"trait_type": "Ears",
-			"value": "Leafy",
+			"value": "Leafy"
 		},
 		{
 			"trait_type": "Back",
-			"value": "Hermit",
+			"value": "Hermit"
 		},
 		{
 			"trait_type": "Mouth",
-			"value": "Serious",
+			"value": "Serious"
 		},
 		{
 			"trait_type": "Horn",
-			"value": "Lagging",
+			"value": "Lagging"
 		},
 		{
 			"trait_type": "Tail",
-			"value": "Carrot",
+			"value": "Carrot"
 		},
 		{
 			"trait_type": "Class",
-			"value": "Plant",
+			"value": "Plant"
 		},
 		{
 			"trait_type": "Background",
-			"value": "Green",
+			"value": "Green"
 		},
 		{
 			"trait_type": "Origin",
-			"value": "Origin",
+			"value": "Origin"
 		}	
 	]
 }
