@@ -1,0 +1,48 @@
+{
+	"description": "Derivative art of Mystic Axie #3355 https://marketplace.axieinfinity.com/axie/3355",
+	"image": "https://kobierecky.github.io/AxieDerivatives/21.png",
+	"name": "Derivative of Mystic Axie #3355",
+	"external_url": "https://marketplace.axieinfinity.com/axie/3355",
+	"attributes": [
+		{
+			"trait_type": "Eyes",
+			"value": "Calico Zeal"
+		},
+		{
+			"trait_type": "Ears",
+			"value": "Innocent Lamb"
+		},
+		{
+			"trait_type": "Back",
+			"value": "Blue Moon"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Catfish"
+		},
+		{
+			"trait_type": "Horn",
+			"value": "Lagging"
+		},
+		{
+			"trait_type": "Tail",
+			"value": "Carrot"
+		},
+		{
+			"trait_type": "Class",
+			"value": "Aquatic"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Underwater"
+		},
+		{
+			"trait_type": "Origin",
+			"value": "Origin"
+		},
+		{
+			"trait_type": "Mystic",
+			"value": "1"
+		}
+	]
+}
