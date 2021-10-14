@@ -1,0 +1,39 @@
+{
+	"description": "Derivative art of #TEMPEST Axie",
+	"image": "https://kobierecky.github.io/AxieDerivatives/23.png",
+	"name": "Derivative of #TEMPEST Axie",
+	"attributes": [
+		{
+			"trait_type": "Eyes",
+			"value": "Kotaro?"
+		},
+		{
+			"trait_type": "Ears",
+			"value": "Nut Cracker"
+		},
+		{
+			"trait_type": "Back",
+			"value": "Ronin"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Katana"
+		},
+		{
+			"trait_type": "Horn",
+			"value": "Tempest "
+		},
+		{
+			"trait_type": "Tail",
+			"value": "Gerbil"
+		},
+		{
+			"trait_type": "Class",
+			"value": "Beast"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Orange"
+		}
+	]
+}
