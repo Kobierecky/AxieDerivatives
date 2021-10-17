@@ -1,0 +1,40 @@
+{
+	"description": "Derivative art of Axie #7217651 https://marketplace.axieinfinity.com/axie/7217651",
+	"image": "https://kobierecky.github.io/AxieDerivatives/25.png",
+	"name": "Derivative of Axie #7217651",
+	"external_url": "https://marketplace.axieinfinity.com/axie/7217651",
+	"attributes": [
+		{
+			"trait_type": "Eyes",
+			"value": "Scar"
+		},
+		{
+			"trait_type": "Ears",
+			"value": "Risky Bird"
+		},
+		{
+			"trait_type": "Back",
+			"value": "Pumpkin"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Cute Bunny"
+		},
+		{
+			"trait_type": "Horn",
+			"value": "Cerastes"
+		},
+		{
+			"trait_type": "Tail",
+			"value": "Yam"
+		},
+		{
+			"trait_type": "Class",
+			"value": "Dusk"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Byzantium"
+		}
+	]
+}
