@@ -1,0 +1,40 @@
+{
+	"description": "Axie Infinity Fanart of Axie #176864 https://marketplace.axieinfinity.com/axie/176864",
+	"image": "https://kobierecky.github.io/AxieDerivatives/26.png",
+	"name": "Derivative of Axie #176864",
+	"external_url": "https://marketplace.axieinfinity.com/axie/176864",
+	"attributes": [
+		{
+			"trait_type": "Eyes",
+			"value": "Chubby"
+		},
+		{
+			"trait_type": "Ears",
+			"value": "Nut Cracker"
+		},
+		{
+			"trait_type": "Back",
+			"value": "Ronin"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Nut Cracker"
+		},
+		{
+			"trait_type": "Horn",
+			"value": "Kendama"
+		},
+		{
+			"trait_type": "Tail",
+			"value": "Nut Cracker"
+		},
+		{
+			"trait_type": "Class",
+			"value": "Beast"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Mellow"
+		}
+	]
+}
