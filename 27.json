@@ -1,0 +1,40 @@
+{
+	"description": "Axie Infinity Fanart of Axie #46866 https://marketplace.axieinfinity.com/axie/46866",
+	"image": "https://kobierecky.github.io/AxieDerivatives/27.png",
+	"name": "Derivative of Axie #46866",
+	"external_url": "https://marketplace.axieinfinity.com/axie/46866",
+	"attributes": [
+		{
+			"trait_type": "Eyes",
+			"value": "Blossom"
+		},
+		{
+			"trait_type": "Ears",
+			"value": "Sakura"
+		},
+		{
+			"trait_type": "Back",
+			"value": "Sandal"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Tiny Turtle"
+		},
+		{
+			"trait_type": "Horn",
+			"value": "Merry"
+		},
+		{
+			"trait_type": "Tail",
+			"value": "Gila"
+		},
+		{
+			"trait_type": "Class",
+			"value": "Aquatic"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Blue"
+		}
+	]
+}
