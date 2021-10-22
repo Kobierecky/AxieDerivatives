@@ -1,0 +1,40 @@
+{
+	"description": "Axie Infinity Fanart of Axie #5584893 https://marketplace.axieinfinity.com/axie/5584893",
+	"image": "https://kobierecky.github.io/AxieDerivatives/28.png",
+	"name": "Derivative of Axie #5584893",
+	"external_url": "https://marketplace.axieinfinity.com/axie/5584893",
+	"attributes": [
+		{
+			"trait_type": "Eyes",
+			"value": "Clear"
+		},
+		{
+			"trait_type": "Ears",
+			"value": "Nyan"
+		},
+		{
+			"trait_type": "Back",
+			"value": "Ronin"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Cute Bunny"
+		},
+		{
+			"trait_type": "Horn",
+			"value": "Cuckoo"
+		},
+		{
+			"trait_type": "Tail",
+			"value": "Nut Cracker"
+		},
+		{
+			"trait_type": "Class",
+			"value": "Bug"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Red"
+		}
+	]
+}
