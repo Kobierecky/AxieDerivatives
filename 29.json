@@ -1,0 +1,40 @@
+{
+	"description": "Axie Infinity Fanart of Axie #125196 https://marketplace.axieinfinity.com/axie/125196",
+	"image": "https://kobierecky.github.io/AxieDerivatives/29.png",
+	"name": "Derivative of Axie #125196",
+	"external_url": "https://marketplace.axieinfinity.com/axie/125196",
+	"attributes": [
+		{
+			"trait_type": "Eyes",
+			"value": "Neo"
+		},
+		{
+			"trait_type": "Ears",
+			"value": "Maiko"
+		},
+		{
+			"trait_type": "Back",
+			"value": "Hamaya"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Zipzag"
+		},
+		{
+			"trait_type": "Horn",
+			"value": "Oranda"
+		},
+		{
+			"trait_type": "Tail",
+			"value": "Feather Fan"
+		},
+		{
+			"trait_type": "Class",
+			"value": "Aquatic"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Blue"
+		}
+	]
+}
