@@ -1,0 +1,40 @@
+{
+	"description": "Axie Infinity Fanart of #UNSTOPPABLE Axie",
+	"image": "https://kobierecky.github.io/AxieDerivatives/30.png",
+	"name": "Derivative of #UNSTOPPABLE Axie",
+	"external_url": "https://twitter.com/unstoppablevc",
+	"attributes": [
+		{
+			"trait_type": "Eyes",
+			"value": "Mavis"
+		},
+		{
+			"trait_type": "Ears",
+			"value": "Peace Maker"
+		},
+		{
+			"trait_type": "Back",
+			"value": "Pigeon Post"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Doubletalk"
+		},
+		{
+			"trait_type": "Horn",
+			"value": "Eggshell"
+		},
+		{
+			"trait_type": "Tail",
+			"value": "Cottontail"
+		},
+		{
+			"trait_type": "Class",
+			"value": "Bird"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Unstoppable"
+		}
+	]
+}
