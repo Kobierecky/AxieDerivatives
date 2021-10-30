@@ -1,0 +1,40 @@
+{
+	"description": "Axie Infinity Fanart of Axie #39367 https://marketplace.axieinfinity.com/axie/39367",
+	"image": "https://kobierecky.github.io/AxieDerivatives/31.png",
+	"name": "Derivative of Axie #39367",
+	"external_url": "https://marketplace.axieinfinity.com/axie/39367",
+	"attributes": [
+		{
+			"trait_type": "Eyes",
+			"value": "Mavis"
+		},
+		{
+			"trait_type": "Ears",
+			"value": "Owl"
+		},
+		{
+			"trait_type": "Back",
+			"value": "Jaguar"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Tiny Turtle"
+		},
+		{
+			"trait_type": "Horn",
+			"value": "Dual Blade"
+		},
+		{
+			"trait_type": "Tail",
+			"value": "Shrimp"
+		},
+		{
+			"trait_type": "Class",
+			"value": "Bug"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Red"
+		}
+	]
+}
