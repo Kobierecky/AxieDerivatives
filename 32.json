@@ -1,0 +1,40 @@
+{
+	"description": "Axie Infinity Fanart of Axie #125227 https://marketplace.axieinfinity.com/axie/125227",
+	"image": "https://kobierecky.github.io/AxieDerivatives/32.png",
+	"name": "Derivative of Axie #125227",
+	"external_url": "https://marketplace.axieinfinity.com/axie/125227",
+	"attributes": [
+		{
+			"trait_type": "Eyes",
+			"value": "Clear"
+		},
+		{
+			"trait_type": "Ears",
+			"value": "Tiny Fan"
+		},
+		{
+			"trait_type": "Back",
+			"value": "Croc"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Peace Maker"
+		},
+		{
+			"trait_type": "Horn",
+			"value": "Dual Blade"
+		},
+		{
+			"trait_type": "Tail",
+			"value": "Gerbil"
+		},
+		{
+			"trait_type": "Class",
+			"value": "Aquatic"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Blue"
+		}
+	]
+}
