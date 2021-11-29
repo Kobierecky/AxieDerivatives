@@ -1,0 +1,40 @@
+{
+	"description": "Axie Infinity Fanart of #CHASMACGAMING Axie",
+	"image": "https://kobierecky.github.io/AxieDerivatives/34.png",
+	"name": "Derivative of #CHASMACGAMING Axie",
+	"external_url": "https://twitter.com/ChasmacGaming",
+	"attributes": [
+		{
+			"trait_type": "Eyes",
+			"value": "Zeal"
+		},
+		{
+			"trait_type": "Ears",
+			"value": "Nut Cracker"
+		},
+		{
+			"trait_type": "Back",
+			"value": "Ronin"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Serious"
+		},
+		{
+			"trait_type": "Horn",
+			"value": "Kestrel"
+		},
+		{
+			"trait_type": "Tail",
+			"value": "Hare"
+		},
+		{
+			"trait_type": "Class",
+			"value": "Beast"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Chasmac Gaming"
+		}
+	]
+}
